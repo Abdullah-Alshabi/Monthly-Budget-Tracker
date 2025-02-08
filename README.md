@@ -82,4 +82,3 @@ This project is licensed under the **MIT License** – see the `LICENSE` file fo
 If you like this project, ⭐ **star** the repository on GitHub!  
 Your support is appreciated. 😊
 ```
-
