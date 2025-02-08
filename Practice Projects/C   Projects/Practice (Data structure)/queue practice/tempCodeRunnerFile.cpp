@@ -1,0 +1,10 @@
+queue ob;
+    ob.add(5);
+    ob.add(4);
+    ob.add(3);
+    ob.add(2);
+    ob.add(1);
+    ob.display();
+    ob.del();
+    cout<<endl;
+    ob.display();
