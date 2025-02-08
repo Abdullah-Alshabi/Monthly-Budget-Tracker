@@ -1,28 +1,38 @@
-# 📊 Monthly Budget Tracker
+# 💰 Monthly Budget Tracker
 
-A simple **C++ program** that helps users efficiently manage their monthly budgets by tracking **income, expenses, and savings**. This tool allows users to **add, modify, and review** expenses, ensuring they maintain control over their financial goals.
+A **C++ expense tracking tool** that helps users **organize their budget**, **track expenses**, and **analyze spending habits** efficiently.
 
-## 🌟 Features
-- **Expense Management**: Add, modify, and remove expenses.
-- **Budget Tracking**: Provides a clear **summary** of total expenses, remaining budget, and low-budget warnings.
-- **User-Friendly Interface**: Command-line interface for ease of use.
-- **Efficient Data Handling**: Uses a **linked list** for optimal expense management.
-- **Error Handling**: Prevents users from exceeding their budget.
+## 🚀 Features
+- **Income Management**: Users can input and update their monthly income.
+- **Expense Tracking**: Add, modify, and categorize expenses.
+- **Budget Summary**: Displays total expenses, remaining budget, and a low-budget warning.
+- **Error Handling**: Alerts users if they exceed their budget or input incorrect data.
+- **Object-Oriented Design**: Uses **Linked List data structures** for dynamic expense management.
 
-## 🛠️ Technologies Used
-- **Programming Language**: C++
-- **Data Structures**: Linked List
-- **Concepts Used**: Object-Oriented Programming (OOP), File Handling, Dynamic Memory Allocation
-
-## 📌 Project Goals
-1. Provide an **easy-to-use interface** for budget tracking.
-2. Generate a **clear summary** of expenses in simplified categories.
-3. Help users **identify their major spending areas**.
-4. Ensure **error-free execution** with proper input validation.
-
-## 🔽 Installation & Usage
-### **1️⃣ Clone the Repository**
-To use this project, clone it using **Git**:
+## 📥 Installation & Usage
+### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Abdullah-Alshabi/Monthly-Budget-Tracker.git
+git clone git@github.com:Abdullah-Alshabi/Monthly-Budget-Tracker.git
 cd Monthly-Budget-Tracker
+2️⃣ Compile & Run the Program
+bash
+Copy
+Edit
+g++ -o BudgetTracker MonthlyBudget.cpp
+./BudgetTracker
+3️⃣ Usage Instructions
+Enter your monthly income.
+Choose an action:
+1 - Add an expense
+2 - Modify your income
+3 - Display budget summary
+-1 - Exit
+🛠 Technologies Used
+C++ (Object-Oriented Programming)
+Linked List for efficient expense tracking
+Git & GitHub for version control
+📜 License
+This project is licensed under the MIT License – see the LICENSE file for details.
+🌟 Show Your Support!
+If you like this project, ⭐ star the repository on GitHub!
+Your support is appreciated. 😊

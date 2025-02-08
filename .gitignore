@@ -1,0 +1,8 @@
+echo "*.o
+*.exe
+*.out
+*.log
+.DS_Store
+.vscode/
+.idea/
+__pycache__/" > .gitignore
